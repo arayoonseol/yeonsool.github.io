@@ -9324,5 +9324,7 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
     line-height: 50px;
     background: #333;
     color: #fff;
+    position: absolute;
+    bottom: 0px;
 }
 /*# sourceMappingURL=bootstrap.css.map */
